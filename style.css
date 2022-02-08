@@ -1,0 +1,29 @@
+html {
+    background-color: blue;
+}
+
+body {
+    background-color: white;
+    border-radius: 10px;
+    text-align: left;
+    padding: 45px;
+    width: 600px;
+    margin: 25px auto;
+}
+
+h1, h2 {
+    font-family: Verdana;
+}
+
+button {
+    background-color: maroon;
+    color: white;
+}
+
+#Image {
+    border: 1px solid grey;
+}
+
+.Italic {
+    font-style: Italic;
+}
